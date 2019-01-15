@@ -1,0 +1,2 @@
+1. Sensors supported by ROS:
+http://wiki.ros.org/Sensors
